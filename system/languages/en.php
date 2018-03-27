@@ -256,4 +256,45 @@
 		// mailing
 		"mailing-sender-email" => "email",
 		"mailing-sender-name" => "name",
+
+		// article - action
+		"art-login-preform-action" => "",
+		"art-insufficient-rights-to-set-as-processed" => "",
+		"art-unsupported-status-change" => "",
+		"art-no approves yet" => "",
+		"art-please-add-a-comment" => "",
+		"art-successfully-updated" => "",
+		"art-status-changed-in-between" => "",
+
+		// article - status
+		"art-status-draft" => "",
+		"art-status-review" => "",
+		"art-status-approved" => "",
+		"art-status-published" => "",
+		"art-status-retracted" => "",
+
+		// article - comment
+		"art-blocking" => "",
+		"art-review-comments" => "",
+		"art-no-comments-yet" => "",
+		"art-add-review-comment" => "",
+		"art-comment" => "",
+
+		// article - edit
+		"art-cancel" => "",
+		"art-save" => "",
+
+		// article
+		"art-by" => "",
+		"art-method" => "",
+		"art-sources" => "",
+		"art-is-resolved" => "",
+		"art-is-blocking" => "",
+		"art-set-as-resolved" => "",
+		"art-set-as-closed" => "",
+		"art-approves" => "",
+		"art-title" => "",
+		"art-author" => "",
+		"art-excerpt" => "",
+		"art-article" => "",
 	);
